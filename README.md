@@ -1,7 +1,7 @@
 # Learning-Rust
 ### Learning Rust by example.
 - Learning ``` fundamentals ``` and ``` basics ``` of Rust by referring to the documentation " ``` Rust by example ``` " <br />
-which is maintained by the rust community @ https://www.rust-lang.org/learn. <br />
+maintained by the rust community @ https://www.rust-lang.org/learn. <br />
 - This repository is a collection of ``` Rust ``` code snippets, templates & tests implemented from the doc ``` Rust by Example ```. <br />
 - Documentaion link : https://doc.rust-lang.org/rust-by-example. <br />
 
